@@ -1,7 +1,7 @@
 module github.com/azubkokshe/go-netdicom
 
 require (
-	github.com/azubkokshe/go-dicom v0.0.0-20210205044406-159526cbf89b
+	github.com/azubkokshe/go-dicom v0.0.0-20210211145826-06882bcc6438
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/stretchr/testify v1.2.2
 	golang.org/x/text v0.3.5 // indirect
@@ -42,5 +42,3 @@ replace v.io/x/ref/lib/flags/sitedefaults => ../../../v.io/x/ref/lib/flags/sited
 replace github.com/golang/lint => ../../golang/lint
 
 go 1.15
-
-replace github.com/BTsykaniuk/go-dicom => github.com/azubkokshe/go-dicom v1.0.0
