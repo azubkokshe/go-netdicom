@@ -1,7 +1,7 @@
 module github.com/azubkokshe/go-netdicom
 
 require (
-	github.com/azubkokshe/go-dicom v0.0.0-20210211145826-06882bcc6438
+	github.com/azubkokshe/go-dicom v1.0.0
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/stretchr/testify v1.2.2
 	golang.org/x/text v0.3.5 // indirect
